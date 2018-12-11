@@ -6,9 +6,7 @@ For the purpose of this workshop, we are going to take Omeka for a test run by r
 
 Go to (https://www.omeka.net/signup#), and click on "Start your free Omeka trial."
 
-![alt text](screenshot1.png "Screenshot Omeka Registration")
-
-![alt text](screenshot2.png "Screenshot Omeka Registration")
+![screenshot omeka registration 1](sections/screenshot1.png)
 
 Once you have filled out and submitted the form, check your email for an activation link. If you don’t get the email, check your spam folder. 
 
