@@ -1,7 +1,7 @@
 # Next Steps
 
 ## DARC! 
-The Digital Fellows are currently developing a platform that aims to address the needs of students, faculty, and communities working on Archival Research at the Graduate Center. While our primary goal is to assist in the creation of digital archives and exhibitions, we also aim to provide resources (in the form of tutorials, best practices, and workshops) on the archival research process itself. We foster community building among digital archivists and researchers at the Graduate Center, by promoting projects and facilitating communication across disciplines and institutional settings.
+The Graduate Center Digital Fellows have created a new working group, the Digital Archive Research Collective (DARC), for students and faculty engaging with digital archival work. DARC defines 'archive' in the broadest sense, working with everything from physical collections to projects that incorporate methods such as sampling, mining, recording, exhibition, and cataloguing. We'd like to keep you in the loop! Sign up to the DARC group on the Academic Commons [here](http://cuny.is/darc).
 
 ## Resources
 * [DARC (Digital Archive Research Collective)](http://cuny.is/darc)
