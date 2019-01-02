@@ -22,7 +22,7 @@ By the end of this workshop, participants will be able to:
 [Create a Collection](sections/collections.md)  
 [Digital Exhibitions](sections/digitalexhibitions.md)  
 
-###Additional Resources
+### Additional Resources
 
 [Omeka Classic, Omeka.net, or Omeka S?](sections/whichomeka.md)  
 [Next Steps/Resources](sections/next.md)    
