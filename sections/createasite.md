@@ -2,14 +2,14 @@
 
 Log into your Omeka.net account. From your account click on _Add a Site_. 
 
-Give your website a subdomain name, a title, and a description. 
-
 ![add a site](addsite.png)
 
+Give your website a subdomain name, a title, and a description. 
+
 ```
-__Subdomain name__ baltmanandco[#].omeka.net
-__Site title__ B. Altman & Co.’s Archive
-__Site description__ The B. Altman & Co.’s Archive collects documents, images, videos, and other digital artifacts relevant to the history of the department store founded by Benjamin Altman in 1865 in New York City. 
+Subdomain name: baltmanandco[#].omeka.net
+Site title: B. Altman & Co.’s Archive
+Site description: The B. Altman & Co.’s Archive collects documents, images, videos, and other digital artifacts relevant to the history of the department store founded by Benjamin Altman in 1865 in New York City. 
 ```
 
 Go back to your account and click on _Manage Site_ to access your website’s dashboard. 
