@@ -7,7 +7,7 @@ The Graduate Center Digital Fellows have created a new working group, the Digita
 * [DARC (Digital Archive Research Collective)](http://cuny.is/darc)
 * [Omeka.net help documentation](http://info.omeka.net/)
 * [Omeka Classic help documentation](http://omeka.org/codex/Documentation)
-* [Omeka S help documentation]   (https://omeka.org/s/docs/user-manual/)
+* [Omeka S help documentation](https://omeka.org/s/docs/user-manual/)
 * [Omeka.org Forums](http://omeka.org/forums/)
 * [Dublin Core Usage Guide](http://www.dublincore.org/documents/usageguide/)
 * [From Omeka Classic to Omeka Semantics](https://daniel-km.github.io/UpgradeToOmekaS/omeka_plugins.html)   
