@@ -1,4 +1,4 @@
-#Theoretical Concerns
+# Theoretical Concerns
 
 Before we engage with the creation of our Omeka database, let’s take a few minutes to think about the conceptual concerns that we have to face when engaging with digital archival work. 
 
