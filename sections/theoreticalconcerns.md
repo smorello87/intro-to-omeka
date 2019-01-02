@@ -14,14 +14,14 @@ Omeka does also allow adding additional standard metadata fields and creating cu
 
 Keep in mind that you should be as consistent as possible with your metadata. For example, if you use “New York, NY” in the “Coverage” field, make sure you follow the same City, State format when compiling the same field for other items. 
 
-*. [File formats standards](http://www.loc.gov/preservation/resources/rfs/TOC.html)
+* [File formats standards](http://www.loc.gov/preservation/resources/rfs/TOC.html)
 * Informational architecture of your website 
-⋅⋅* Discoverability 
-⋅⋅* Accessibility
+  * Discoverability 
+  * Accessibility
 * Rights and permissions
 * Sustainability
-⋅⋅* Ongoing guardianship  
-⋅⋅* Preservation 
+  * Ongoing guardianship  
+  * Preservation 
 
 
 [<<< Back](intro.md) [Next >>>](omekainstall.md) 
