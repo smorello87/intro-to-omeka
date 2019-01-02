@@ -6,9 +6,9 @@ When considering whether to use the hosted or the self-hosted version of Omeka, 
 
 Then there’s __Omeka S__, the newest born in the Omeka family. It creates a local network of independently curated websites sharing a collaboratively built pool of items and their metadata. While Omeka Classic is designed for a single site around a general theme, argument, or research question; Omeka S was created for institutions managing a sharable resource pool across multiple sites. In addition, Omeka Classic uses Dublin Core while Omeka S implements multiple vocabularies and facilitates linked open data. If your project would benefit from relational data, then it might make sense to use Omeka S. Omeka Classic is a little easier to get off the ground (it automatically creates a site when you spin up the install) but both are well documented in terms of use. If you want to take a look at the differences yourself, you can experiment in the [Omeka S sandbox](http://omeka.org/s/download/).
 
-Keep in mind that there is a migration module between Omeka and Omeka S, but not the other way around. 
+Keep in mind that while there is a migration module between Omeka and Omeka S, there is no plugin that allows you to achieve the opposite, at the moment. 
 
-Finally, please note that Omeka is not the only nor always the best solution to create an online archive. According to your needs and the nature of your resources, you may want to explore other options, such as Wordpress, Collective Access, and Drupal. 
+Finally, please note that Omeka is not the only nor always the best solution to create an online archive or a digital exhibit. According to your needs and the nature of your resources, you may want to explore other options, such as Wordpress, Collective Access, and Drupal. 
 
 
 [<<< Back](digitalexhibitions.md) [Next >>>](next.md)  

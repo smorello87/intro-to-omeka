@@ -16,10 +16,10 @@ Go back to your account and click on _Manage Site_ to access your website’s da
 
 ![manage site](managesite.png)
 
-Remember, only authorized users can access the backend of your site. If your site was a restaurant, this would be the kitchen. In other words, this is where you will create and organize all of the content that is presented on your site. 
+If your site was a restaurant, this would be the kitchen. In other words, this is where you will create and organize all of the content that is presented on your site. Only authorized users can access the backend of your site. 
 
 ![dashboard](dashboard.png)
 
-You have two menus in your dashboard. One on the left that allows you to create and edit content; and one on the top, which allows you to deal with the structure of your website. Let’s begin with the latter. 
+You have two menus in your dashboard. One on the left that allows you to create and edit content; and one on the top right, which allows you to deal with the structure of your website. Let’s begin with the latter. 
 
 [<<< Back](omekainstall.md) [Next >>>](themesplugins.md)  
