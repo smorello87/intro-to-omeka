@@ -85,8 +85,8 @@ Click on _Add Item_ to create your item.
 
 You can now try and create a few items on your own. You will find the metadata in the txt files with the name, but feel free to think through and make up your own metadata as you go. 
 
-1. [B Altman's Logo](3.jpg) [Metadata](3.txt)
-2. [Living Room Sale](4.jpg) [Metadata](4.txt)  
-3. [White Sale Commercial](5.mp4) [Metadata](5.txt)
+1. [B Altman's Logo](3.jpg) | [Metadata](3.txt)
+2. [Living Room Sale](4.jpg) | [Metadata](4.txt)  
+3. [White Sale Commercial](5.mp4) | [Metadata](5.txt)
 
 [<<< Back](createasite.md) [Next >>>](collections.md)  
