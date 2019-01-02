@@ -16,12 +16,12 @@ Keep in mind that you should be as consistent as possible in your metadata. For 
 2. [File formats standards](http://www.loc.gov/preservation/resources/rfs/TOC.html)
 
 3. Informational architecture of your website 
-*Discoverability 
-*Accessibility
+* Discoverability 
+* Accessibility
 4. Rights and permissions
 5. Sustainability
-*Ongoing guardianship  
-*Preservation 
+* Ongoing guardianship  
+* Preservation 
 
 
 [<<< Back](intro.md) [Next >>>](omekainstall.md) 
