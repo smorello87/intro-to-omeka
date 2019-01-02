@@ -16,6 +16,7 @@ Let’s try to change it. Return to your dashboard and click on _Appearance_. Cl
 ## Plugins 
 Like themes, plugins are separate “add-ons” to Omeka, but whereas themes change the look and feel of an Omeka site, plugins change the functionality of an Omeka site — they change what it can do. There are (currently) eight plugins packaged with the free Basic plan on Omeka.net, but there are more than 50 cool plugins for the self-hosted version of Omeka listed at [Omeka.org/plugins](http://omeka.org/plugins) that do everything from enabling anyone on the web to contribute items to your archive (with the [Contribution](http://omeka.org/add-ons/plugins/contribution/) plugin) to tweeting out an announcement whenever a new item is added (with the [Tweetster for Omeka](http://omeka.org/add-ons/plugins/tweetster-for-omeka/) plugin). Some of these plugins are developed by the Omeka team at RRCHNM, but a lot of them are developed by people who are customizing Omeka for their own purposes and contributing their code to the larger community. 
 
+### Sample Pages Plugin
 Let’s try and activate the Sample Page plugin. This allows us to create static web pages in our Omeka site. Click on _Plugins_, scroll to the bottom of the page and click on _Install_ to activate the simple pages plugin. 
 
 ![plugin menu](plugin1.png)
@@ -24,7 +25,8 @@ You’ll notice that a new link appeared on the left hand side. Click on _Simple
 
 Copy/paste the content below in the text box.
 
-``` <p><img src="http://gcdigitalfellows.github.io/images/gcdri-logo.png" alt="GCDRI Logo" width="600" height="57" /></p>
+``` 
+<p><img src="http://gcdigitalfellows.github.io/images/gcdri-logo.png" alt="GCDRI Logo" width="600" height="57" /></p>
 <p>This is a project developed by the cohort of the 2019 Digital Research Institute.</p>
 ```
 
@@ -34,17 +36,16 @@ Click on _Save_.
 
 When you visit your website, you’ll notice that, in addition to the previous sections, you can now find a new link in your menu. 
 
-![preview](plugin3.png)
-
-Let’s now try and add a subpage.Click on Simple Pages, and add a page. 
+Let’s now try and add a subpage. Click on Simple Pages, and add a page. 
 
 ![preview](plugin4.png)
 
 We are going to call it “Team.” On the right hand side, make sure you select the check box “Public” and the About page as a “parent” page. You can now try and use the HTML editor bar to edit the format and the pagination.
 
-![preview](plugin4.png)
+![preview](plugin5.png)
 
-```Workshop leaders: Stefano Morello, Kirsten Hackett.
+```
+Workshop leaders: Stefano Morello, Kirsten Hackett.
 Participants: 
 ```
 
