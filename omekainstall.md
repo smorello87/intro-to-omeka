@@ -11,3 +11,5 @@ Go to (https://www.omeka.net/signup#), and click on "Start your free Omeka trial
 Once you have filled out and submitted the form, check your email for an activation link. If you don’t get the email, check your spam folder. 
 
 Please make sure you are able to log into your account, and that you keep login information handy in view of the workshop. 
+
+[<<< Back](theoreticalconcerns.md) [Next >>>](createasite.md) 
