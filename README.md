@@ -16,7 +16,7 @@ By the end of this workshop, participants will be able to:
 
 [Theoretical Concerns](sections/theoreticalconcerns.md)  
 [Getting Started with Omeka.net](sections/omekainstall.md)
-[Create an Omeka Site](sections/createasite.md)  <br>
+[Create an Omeka Site](sections/createasite.md)  \\
 [Themes and Plugins](sections/themesplugins.md)  
 [Add an Item](sections/addanitem.md)  
 [Create a Collection](sections/collections.md)  
