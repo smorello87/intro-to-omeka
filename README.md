@@ -29,7 +29,7 @@ By the end of this workshop, participants will be able to:
 
 -----
 
-Session Leader: Stefano Morello
+Session Leader: Stefano Morello  
 Credit: This workshop was developed by Stefano Morello, based on Amanda French's [Introduction to Omeka Lesson Plan](http://amandafrench.net/2013/11/12/introduction-to-omeka-lesson-plan/)
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
