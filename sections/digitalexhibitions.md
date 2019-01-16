@@ -52,11 +52,11 @@ The File with Text block allows you to pair fullsize or thumbnail files of your 
 
 For our first block, select _File with Text_ and click on _Add New Content Block_. 
 
-Click on _Add Item_ and select Altman & Co’s 1865 logo from our “Misc” collection. 
+Click on _Add Item_ and select the B. Altman & Co’s 1865 logo from our “Misc” collection. 
 
 ![add item](exhibits5.png)
 
-You'll be prompted to add a caption for your item, it can be something like “Altman & Co’s first logo.” Click on _Apply_.
+You'll be prompted to add a caption for your item, it can be something like “B. Altman & Co’s first logo.” Click on _Apply_.
 
 ![item properties](exhibits6.png)
 
@@ -71,7 +71,7 @@ To add our second item, click on _File with Text_, then _Add New Content Block_.
 
 In the text box, we are going to narrate the story of the move to the building. 
 
-> By 1906, though, Altman's had moved to a new block-long building at 351–57 Fifth Avenue running from 34th to 35th Streets, which was expanded in stages through 1913 to 188–89 Madison Avenue. Altman's was the first big department store to make the move from the "Ladies' Mile" shopping district, where the dry-goods emporia had been located, to Fifth Avenue. That neighborhood was still almost entirely residential at the time, and following Altman's example, the other big stores like Lord and Taylor in 1914, followed and made the move uptown as well.
+> By 1906, though, B. Altman's had moved to a new block-long building at 351–57 Fifth Avenue running from 34th to 35th Streets, which was expanded in stages through 1913 to 188–89 Madison Avenue. B. Altman's was the first big department store to make the move from the "Ladies' Mile" shopping district, where the dry-goods emporia had been located, to Fifth Avenue. That neighborhood was still almost entirely residential at the time, and following Altman's example, the other big stores like Lord and Taylor in 1914, followed and made the move uptown as well.
 
 
 The _Layout Options_ menu allows us to further customize the way our page looks. For example, we can select the position and size of the item on the page. 
