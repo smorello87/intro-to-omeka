@@ -1,8 +1,8 @@
 # Introduction
 
-Omeka is a free, easy to use system for creating a searchable online database of digital archival items such as images, audio, and video files. It allows you to describe the items according to academic archival standards, import and export that descriptive information from other systems, and to create as many interpretive online exhibits as you like from those items.
+Omeka is a free system for creating a searchable online database of digital archival items such as images, audio, and video files. It allows you to describe the items according to academic archival standards, import and export that descriptive information from other systems, and to create as many interpretive online exhibits as you like from those items.
 
-Think of the way a museum works: a large collection, only some of which is publicly displayed and interpreted by plaques and labels written by museum curators. Omeka works like that. 
+Think of the way a museum works: all the museum holdings are divided into collections, only some of which is publicly displayed and interpreted by plaques and labels written by museum curators. Omeka works like that. 
 
 ## Sample Sites
 * [The City of Boston archives](https://cityofbostonarchives.omeka.net/) is an excellent example of an archive that relies on the basic functions of Omeka that we are going to explore today. The website collects and catalogues a set of items, sorts them into collections, and uses them to tell stories in the form of digital exhibitions. 
@@ -15,6 +15,6 @@ Omeka is NOT desktop software that you install on your own machine, it’s what�
 For practical purposes, we will make use of the latter during this workshop. Despite having a limited set of functionalities, Omeka.net operates in the same way as the self-hosted version.  
 
 ## Today’s Exercise
-We are going to create and populate a database with artifacts from Altman’s & Co., the department store that until January 1990 resided in the building that now houses CUNY's Graduate Center. We are then going to create a sample exhibition that uses the items in our collections to tell the story of the store in the first two decades of the 1900s.
+We are going to create and populate a database with artifacts from B. Altman’s & Co., the department store that until January 1990 resided in the building that now houses CUNY's Graduate Center. We are then going to create a sample exhibition that uses the items in our collections to tell the story of the store in the first two decades of the 1900s.
 
 [<<< Back](.../README.md) [Next >>>](theoreticalconcerns.md)
