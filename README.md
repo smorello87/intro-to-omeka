@@ -1,6 +1,6 @@
 # Introduction to Omeka
 
-Omeka is a free and easy to use web publishing system built by and for scholars that is used by hundreds of archives, historical societies, libraries, museums, and individual researchers and teachers to create searchable online databases and scholarly online interpretations of their digital collections. If you have a digital collection of primary sources that you want to publish online in a scholarly way, you’ll want to consider Omeka.
+Omeka is a free Content Management System (CMS) and a web publishing system built by and for scholars that is used by hundreds of archives, historical societies, libraries, museums, and individual researchers and teachers to create searchable online databases and scholarly online interpretations of their digital collections. If you have a digital collection of primary sources that you want to publish online in a scholarly way, you’ll want to consider Omeka.
 Omeka allows to describe the items according to archival standards, import and export that descriptive information from other systems, and to create as many interpretive online exhibits as you like from those items.
 
 
