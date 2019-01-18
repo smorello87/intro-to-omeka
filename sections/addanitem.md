@@ -5,7 +5,7 @@ An “item” is the basic unit of an Omeka site. It might be a photograph with 
 Let’s try and add a few items together. 
 
 ## Add a Still Image
-We are going to start with a picture of the B. Altman & Co. headquarter on Fifth Avenue. Right click [here](1.jpg) and download the file to your desktop. 
+We are going to start with a picture of the B. Altman & Co. headquarter on Fifth Avenue. Click [here](1.jpg) and download the file to your desktop. 
 
 From your site's dashboard, click on _Items_ to access the Items menu, then click on _Add an Item_.
 
