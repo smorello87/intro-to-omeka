@@ -13,4 +13,4 @@ The Graduate Center Digital Fellows have created a new working group, the Digita
 * [From Omeka Classic to Omeka Semantics](https://daniel-km.github.io/UpgradeToOmekaS/omeka_plugins.html)   
 
 
-[<<< Back](whichomeka.md) 
+[<<< Back](teaching.md) 
