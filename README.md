@@ -25,8 +25,8 @@ By the end of this workshop, participants will be able to:
 
 ### Additional Resources
 
-[Omeka Classic, Omeka.net, or Omeka S?](sections/whichomeka.md)
-[Teaching with Omeka](sections/teaching.md)
+[Omeka Classic, Omeka.net, or Omeka S?](sections/whichomeka.md)<br>
+[Teaching with Omeka](sections/teaching.md)<br>
 [Next Steps/Resources](sections/next.md)    
 
 -----
