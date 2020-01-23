@@ -2,7 +2,7 @@
 
 Building a WordPress course site on the [Commons](https://commons.gc.cuny.edu/) is usually a better and more flexible option if you are looking for a something that allows your students to access and engage class material, write content, and interact with one another. Omeka is best suited for projects that involve metadata and a sizable digital (or digitizable) collection that you want to curate, organize, and describe. The good news is that you don&#39;t have to choose between the two options! You can easily link your Omeka site to your WordPress site (and even style it in a similar way), allowing each platform to do what it does best.
 
-## Some Omeka Teaching Ends
+## Project Ideas
 
 - Archival Preservation 
 
@@ -24,7 +24,7 @@ Omeka is also flexible platform that allows teachers to collect (and display to 
 - Collaborative Work
 - Community Engagement
 
-## Things to Know/best practices.
+## Best Practices.
 
 1. Plug-ins for classroom use
 
