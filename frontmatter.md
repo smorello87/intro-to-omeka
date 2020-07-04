@@ -42,6 +42,7 @@ Three hours.
 
 ## Resources (optional)
 
+Which here, which  at the end?
 - [Omeka Classic, Omeka.net, or Omeka S?](sections/whichomeka.md)
 - [Teaching with Omeka](sections/teaching.md) -- REVISE
 - [Next Steps/Resources](sections/next.md)   
