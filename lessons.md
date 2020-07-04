@@ -110,7 +110,7 @@ Let’s try to change it. Return to your dashboard and click on _Appearance_.
 
 Click on _Use This Theme_ to activate the Seasons theme. From this page, under the _Navigation_ and _Setting_ tabs, you’ll also be able to make some minor tweaks to the look of your website. 
 
-![appearance menu](theme2.png)
+![appearance menu](/sections/theme2.png)
 
 ## Plugins 
 Like themes, plugins are separate “add-ons” to Omeka, but whereas themes change the look and feel of an Omeka site, plugins change the functionality of an Omeka site — they change what it can do. There are (currently) twelve plugins packaged with the free Basic plan on Omeka.net, but there are more than 50 cool plugins for the self-hosted version of Omeka listed at [Omeka.org/plugins](http://omeka.org/plugins) that do everything from enabling anyone on the web to contribute items to your archive (with the [Contribution](http://omeka.org/add-ons/plugins/contribution/) plugin) to tweeting out an announcement whenever a new item is added (with the [Tweetster for Omeka](http://omeka.org/add-ons/plugins/tweetster-for-omeka/) plugin). Some of these plugins are developed by the Omeka team at RRCHNM, but a lot of them are developed by people who are customizing Omeka for their own purposes and contributing their code to the larger community. 
@@ -250,11 +250,19 @@ Since this ad pertains only to the store on 5th Avenue, we are also going to ass
 
 Click on _Add Item_ to create your item. 
 
+## Challenge
+
 You can now try and create a few items on your own. You will find the metadata in the txt files with the name, but feel free to consult the [Doublin Core Metadata Element Set](http://dublincore.org/documents/dces/) guide and think through your own metadata as you go. 
 
-1. [B Altman's Logo](/sections/3.jpg) | [Metadata](/sections/3.txt)
-2. [Living Room Sale](/sections/4.jpg) | [Metadata](/sections/4.txt)  
-3. [White Sale Commercial](/sections/5.mp4) | [Metadata](/sections/5.txt)
+1. [B Altman's Logo](/sections/3.jpg) 
+2. [Living Room Sale](/sections/4.jpg) 
+3. [White Sale Commercial](/sections/5.mp4) 
+
+## Solution
+
+1. [Metadata for B Altman's Logo](/sections/3.txt)
+2. [Metadata for Living Room Sale](/sections/4.txt)  
+3. [Metadata for White Sale Commercial](/sections/5.txt)
 
 # Collections
 
