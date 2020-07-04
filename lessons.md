@@ -81,11 +81,11 @@ Site description: The B. Altman & Co.’s Archive collects documents, images, vi
 
 Go back to your account and click on _Manage Site_ to access your website’s dashboard. 
 
-![manage site](managesite.png)
+![manage site](/sections/managesite.png)
 
 If your site was a restaurant, this would be the kitchen. In other words, this is where you will create and organize all of the content that is presented on your site. Only authorized users can access the backend of your site. 
 
-![dashboard](dashboard.png)
+![dashboard](/sections/dashboard.png)
 
 You have two menus in your dashboard. One on the left that allows you to create and edit content; and one on the top right, which allows you to deal with the structure of your website. Let’s begin with the latter. 
 
@@ -98,15 +98,15 @@ Themes control the look and feel of your Omeka site: the color, the font, the la
 
 From your dashboard, visit your site by clicking on the site title in the top left corner. 
 
-![access site](accesssite.png)
+![access site](/sections/accesssite.png)
 
 This is what your website looks like by default. 
 
-![berlin theme](theme1.png)
+![berlin theme](/sections/theme1.png)
 
 Let’s try to change it. Return to your dashboard and click on _Appearance_. 
 
-![appearance](appearance.png)
+![appearance](/sections/appearance.png)
 
 Click on _Use This Theme_ to activate the Seasons theme. From this page, under the _Navigation_ and _Setting_ tabs, you’ll also be able to make some minor tweaks to the look of your website. 
 
@@ -118,13 +118,13 @@ Like themes, plugins are separate “add-ons” to Omeka, but whereas themes cha
 ### Sample Pages Plugin
 Let’s try and activate the Sample Pages plugin, which allows you to create static web pages on your Omeka website. Click on _Plugins_, scroll to the bottom of the page and click on _Install_ to activate the Simple Pages plugin. 
 
-![plugin menu](plugin1.png)
+![plugin menu](/sections/plugin1.png)
 
 You’ll notice that a _Simple Pages_ link appeared on the left hand side menu. Click on it to add or edit your static pages. Upon activating it, the plugin automatically creates an “About” page that we are now going to edit.
 
 From the _Simple Pages_ menu, click on _Edit_. 
 
-![simple pages](plugin2.png)
+![simple pages](/sections/plugin2.png)
 
 You can use HTML to customize your static pages. For example, by copying and pasting the below.
 
@@ -139,11 +139,11 @@ Click on _Save_.
 
 When you visit your website, you’ll notice that, in addition to the previous sections, you can now find a new link in your menu. 
 
-![nabout page menu](newmenu.png)
+![nabout page menu](/sections/newmenu.png)
 
 Let’s now try and add a subpage. Click on _Simple Pages_ in your left menu again; then, on click on _Add a Page_. 
 
-![preview](plugin4.png)
+![preview](/sections/plugin4.png)
 
 Our new "Team" page is going to live under the "About" page. On the right hand side, make sure you select the check box “Public” and the About page as a “parent” page. Try to activate and use the HTML editor bar to create and format content for your page this time. 
 
@@ -152,7 +152,7 @@ Workshop leaders: Stefano Morello, Kirsten Hackett.
 Participants: 
 ```
 
-![preview](plugin5.png)
+![preview](/sections/plugin5.png)
 
 Click on _Save Changes_.
 
@@ -172,11 +172,11 @@ An “item” is the basic unit of an Omeka site. It might be a photograph with 
 Let’s try and add a few items together. 
 
 ## Add a Still Image
-We are going to start with a picture of the B. Altman & Co. headquarter on Fifth Avenue. Click [here](1.jpg) and download the file to your desktop. 
+We are going to start with a picture of the B. Altman & Co. headquarter on Fifth Avenue. Click [here](/sections/1.jpg) and download the file to your desktop. 
 
 From your site's dashboard, click on _Items_ to access the Items menu, then click on _Add an Item_.
 
-![add item](item1.png)
+![add item](/sections/item1.png)
 
 The first thing we need to do is compile the metadata for our item. We saw that metadata is information about the item necessary to store, retrieve, and use the data in a meaningful manner. Here’s an example of how we would fill out the fields for this item.
 
@@ -198,7 +198,7 @@ Let’s now move on to the second tab _Item Type Metadata_.
 
 By default Omeka offers 12 types of items, including “Document,” “Still Image,” “Sound,” “Moving Image,” “Person,” and more. You can also define custom item types, perhaps something like “Coin” or “Poem” or “Quilt,” and you can define custom sets of metadata fields to go with those item types. For instance, if you define the item type “Poem,” you might define a metadata field such as “Rhyme Scheme” where you can enter that information (such as A’bA” abA’ abA” abA’ abA” abA’A” for a villanelle). Be aware, though, that creating custom item types and metadata fields may make it more difficult to exchange data between your Omeka archive and other existing systems. 
 
-![item type metadata](item2.png)
+![item type metadata](/sections/item2.png)
 
 Because our file is a "Still Image," we’ll be prompted to enter the following information:
 
@@ -215,7 +215,7 @@ Click on _Add Item_ to save and... congratulations! You’ve created the first i
 
 ## Add a PDF File
 
-Let’s now try with a PDF document. Click [here](2.pdf) and download on your desktop this advertisement for B. Altman & Co. ran by The Sun in the spring of 1918. 
+Let’s now try with a PDF document. Click [here](/sections/2.pdf) and download on your desktop this advertisement for B. Altman & Co. ran by The Sun in the spring of 1918. 
 
 We are going to follow the same steps as we did for the photograph of the Altman building. 
 
@@ -252,9 +252,9 @@ Click on _Add Item_ to create your item.
 
 You can now try and create a few items on your own. You will find the metadata in the txt files with the name, but feel free to consult the [Doublin Core Metadata Element Set](http://dublincore.org/documents/dces/) guide and think through your own metadata as you go. 
 
-1. [B Altman's Logo](3.jpg) | [Metadata](3.txt)
-2. [Living Room Sale](4.jpg) | [Metadata](4.txt)  
-3. [White Sale Commercial](5.mp4) | [Metadata](5.txt)
+1. [B Altman's Logo](/sections/3.jpg) | [Metadata](/sections/3.txt)
+2. [Living Room Sale](/sections/4.jpg) | [Metadata](/sections/4.txt)  
+3. [White Sale Commercial](/sections/5.mp4) | [Metadata](/sections/5.txt)
 
 # Collections
 
@@ -302,12 +302,12 @@ Example: [This exhibition](http://coloredconventions.org/exhibits/show/henry-hig
 To build an exhibition, we first need to install the Exhibit Builder plugin. The Exhibit Builder plugin allows you to develop online exhibits, or special web pages, that combine items from your Omeka archive and may include narrative text. 
 From your dashboard, access the _Plugin_ menu to activate it. 
 
-![activate exhibits plugin](exhibits1.png)
+![activate exhibits plugin](/sections/exhibits1.png)
 
 ## Create an Exhibit
 Click on the _Exhibits_ link in the left menu. From there, click on _Add an Exhibit_. 
 
-![create exhibit](exhibits2.png)
+![create exhibit](/sections/exhibits2.png)
 
 You'll be prompted to enter the following information:
 
@@ -323,7 +323,7 @@ A “slug” is the user friendly and URL valid name of a dynamic Omeka page. Th
 
 Just like with items and collections, you can also set your exhibits as public/private and/or featured. Click on _Save Changes_ to change your exhibition. Below is what your exhibit's main page is going to look like. 
 
-![preview1](exhibits3.png)
+![preview1](/sections/exhibits3.png)
 
 Omeka allows us to create custom layouts for our exhibition pages. Now that we created our exhibition, let’s add a couple of sample pages to it.
 
@@ -340,7 +340,7 @@ Page Slug:
 
 Pages are made up of combinations of smaller content units called 'blocks.' There are four basic kinds of blocks: item(s) with text, an item gallery, text only, and file only. Each page can have one or more content blocks. 
 
-![add page](exhibits4.png)
+![add page](/sections/exhibits4.png)
 
 The File with Text block allows you to pair fullsize or thumbnail files of your items with a block of text. The Gallery block creates a gallery of item files, generally large square thumbnails. You can add text to the gallery, which will display left or right of the gallery. The Text and Image blocks allow you to display an item or create a section of text which spans the width of the entire page. 
 
@@ -348,11 +348,11 @@ For our first block, select _File with Text_ and click on _Add New Content Block
 
 Click on _Add Item_ and select the B. Altman & Co’s 1865 logo from our “Misc” collection. 
 
-![add item](exhibits5.png)
+![add item](/sections/exhibits5.png)
 
 You'll be prompted to add a caption for your item, it can be something like “B. Altman & Co’s first logo.” Click on _Apply_.
 
-![item properties](exhibits6.png)
+![item properties](/sections/exhibits6.png)
 
 We are going to accompany this item with a brief overview of Altman’s early days. We are going to copy and paste the below in the text box.  
 
@@ -361,7 +361,7 @@ The second block is going to feature the Altman’s Fifth Avenue building.
 
 To add our second item, click on _File with Text_, then _Add New Content Block_. Click on _Add Item_ and select the 1906 picture from our “Buildings” collection. Our caption can be: "The building at 361 Fifth Avenue (at 34th Street)."
 
-![item2](exhibits7.png)
+![item2](/sections/exhibits7.png)
 
 In the text box, we are going to narrate the story of the move to the building. 
 
@@ -370,7 +370,7 @@ In the text box, we are going to narrate the story of the move to the building.
 
 The _Layout Options_ menu allows us to further customize the way our page looks. For example, we can select the position and size of the item on the page. 
 
-![layout options](exhibits8.png)
+![layout options](/sections/exhibits8.png)
 
 When you are done with this page, click on _Save Changes_. 
 
@@ -385,4 +385,3 @@ Then there’s __Omeka S__, the newest born in the Omeka family. It creates a lo
 Keep in mind that while there is a migration module between Omeka and Omeka S, there is no plugin that allows you to achieve the opposite, at the moment. 
 
 Finally, please note that Omeka is not the only nor always the best solution to create an online archive or a digital exhibit. According to your needs and the nature of your resources, you may want to explore other options, such as Wordpress, Collective Access, and Drupal. 
-
