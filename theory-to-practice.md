@@ -4,8 +4,9 @@
 
 - [Nicole N. Aljoe, Elizabeth Maddock Dillon, Benjamin J. Doyle & Elizabeth
 Hopwood (2015) "Obeah and the Early Caribbean Digital Archive," Atlantic Studies, 12:2, 258-266, DOI: 10.1080/14788810.2015.1025217.](https://www.tandfonline.com/doi/full/10.1080/14788810.2015.1025217)
-- Sonia Di Loreto (2018) "Decentralizing the Digital Archive: Reconstructing Margaret Fuller's Transnationalism," Amerikanstudien, 63:2, 183-197.
-- [Megan Ward with Adrian W. Wisnicki, "The Archive after Theory" in Debates in Digital Humanities 2019, Matthew K. Gold and Lauren F. Klein, eds.](https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/a8eccb81-e950-4760-ba93-38e0b1f2b9d0#ch18)
+- Sonia Di Loreto (2018) "Decentralizing the Digital Archive: Reconstructing Margaret Fuller's Transnationalism," _Amerikanstudien_, 63:2, 183-197.
+- [Megan Ward with Adrian W. Wisnicki, "The Archive after Theory," _Debates in Digital Humanities 2019_, Matthew K. Gold and Lauren F. Klein, eds.](https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/a8eccb81-e950-4760-ba93-38e0b1f2b9d0#ch18)
+- [Gabrielle Dean and Lauren Coats (eds.), "Archive," _Digital Pedagogy in the Humanities_, Rebecca Frost Davis, Matthw K. Gold, Katherine D. Harris, Jentery Sayers, eds.](https://digitalpedagogy.hcommons.org/keyword/Archive/)
 
 
 ## Other Tutorials

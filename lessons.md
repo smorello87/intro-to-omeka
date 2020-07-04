@@ -8,9 +8,11 @@ In other cases, however, Omeka can function as a stand-alone lightweight CMS wit
 
 
 ## Sample Sites
-* [The City of Boston archives](https://cityofbostonarchives.omeka.net/) is an excellent example of an Okema website in which a selected set of data from a larger database, most likely managed by a different CMS, was imported. The City of Boston archives relies on the basic functions of Omeka that we are going to explore today to catalogue and display a set of items, sort them into collections, and use them to tell stories in the form of digital exhibitions. 
+- [The City of Boston archives](https://cityofbostonarchives.omeka.net/) is an excellent example of an Okema website in which a selected set of data from a larger database, most likely managed by a different CMS, was imported. The City of Boston archives relies on the basic functions of Omeka that we are going to explore today to catalogue and display a set of items, sort them into collections, and use them to tell stories in the form of digital exhibitions. 
 
-* [Colored Conventions](http://coloredconventions.org/) is a website that uses Omeka a stand-alone CMS and fully takes advantage of the platform's potential. This collaborative project aims to collect rare proceedings, newspaper coverage, and petitions from state and national political meetings of once captive Black people between 1830 and 1890. Colored Conventions is also a great example of how Omeka and digital archiving can work as pedagogical tools. It received awards from the MLA, ASA, and PCA/ACA along with grants from the NEH, Mellon Foundation, and CLI.
+- [Colored Conventions](http://coloredconventions.org/) is a website that uses Omeka a stand-alone CMS and fully takes advantage of the platform's potential. This collaborative project aims to collect rare proceedings, newspaper coverage, and petitions from state and national political meetings of once captive Black people between 1830 and 1890. Colored Conventions is also a great example of how Omeka and digital archiving can work as pedagogical tools. It received awards from the MLA, ASA, and PCA/ACA along with grants from the NEH, Mellon Foundation, and CLI.
+
+- [East Bay Punk Digital Archive](www.eastbaypunkda.com) The East Bay Punk Digital Archive (EBP-DA) is a project spearheaded by Stefano Morello and funded by the [Digital Initiatives](https://gcdi.commons.gc.cuny.edu/),  [Lost & Found](https://www.centerforthehumanities.org/lost-and-found), and the [New Media Lab](https://www.centerforthehumanities.org/lost-and-found) at The Graduate Center, CUNY. It aims to preserve and make available – to researchers, subcultural participants from around the world, and a general public unfamiliar with the topic – the subjugated knowledge produced by participants in the punk-rock commons that loomed in and around the San Francisco Bay Area between the early 1980s and the mid-1990s. 
 
 ## Omeka VS Omeka.net
 Omeka is NOT desktop software that you install on your own machine, it’s what’s called “server-side software.” There are two ways to use Omeka: you can download a free, open-source version of the server-side software at omeka.org, or, if you don’t have server space or would just rather not deal with it, you can sign up for free or paid “hosted” versions at [Omeka.net](http://omeka.net). 
@@ -57,7 +59,7 @@ For the purpose of this workshop, we are going to take Omeka for a test run by r
 
 Go to (https://www.omeka.net/signup#), and click on "Start your free Omeka trial."
 
-![screenshot omeka registration 1](screenshot1.png)
+![screenshot omeka registration 1](/sections/screenshot1.png)
 
 Once you have filled out and submitted the form, check your email for an activation link. If you don’t get the email, check your spam folder. 
 
@@ -67,7 +69,7 @@ Please make sure you are able to log into your account, and that you keep login 
 
 Log into your Omeka.net account. From your account click on _Add a Site_. 
 
-![add a site](addsite.png)
+![add a site](/sections/addsite.png)
 
 Give your website a subdomain name, a title, and a description. 
 
