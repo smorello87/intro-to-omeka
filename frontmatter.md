@@ -26,7 +26,7 @@ Three hours.
 
 ### Pre-reading suggestions
 
-- Something about Digital Archives?
+- ["What Do We Mean by 'Digital Archives?'"](https://darc.gcdiprojects.org/Digital_Archives)
 
 ### Projects that use these skills
 
@@ -38,14 +38,17 @@ Three hours.
 
 ### Ethical Considerations
 
-- Something on Copyright? 
+- When working on a digital archive, you want to especially keep in mind issues concerning intellectual property and privacy. As far as the former, careful consideration of copyright interests is an important part of digital archives. Be sure you have thought through questions such as "Is the content of my archive under copyright?" "If so, who owns the rights to the material?" "If not, am I attaching a [Creative Commons](https://creativecommons.org/licenses/) license to the content of my archive?" "Who needs to be acknowledged/credited?" "Does the way I'm using this material fall under 'fair use'?"
+
+- On the other hand, when it comes to privacy, remember how the expectations of privacy of the creators of the items in your archive (think, for example, of artifacts origianlly intended for private or limited public consumption, such as a letter, or a zine, respectively) might differ from what online publishing entails. It might be a good idea to have a take down notice on your website, especially if you  didn't receive explicit consent to publish all of your material directly from its creators (rathr than just those who own the rights to it). 
+
+- Don't forget that, as Digital Humanists, we are not trying to REPLACE archivists or librarians, but rather, conceiving with them new and better ways to  preserve, make accessible, and legible archival content. In other words, rather than re-invent the wheel, it is often a good idea to be in conversation with archivists and exchange prespectives on the kind of work that you are doing. Here are [some reflections](https://digitalfellows.commons.gc.cuny.edu/2019/10/30/what-to-consider-when-planning-a-digital-project/) that might help you shape the conversation.
+
+-  Other things you want to keep in mind and will be discussed in the workshop are discoverability, accessibility, and sustainabiltiy.
 
 ## Resources (optional)
 
-Which here, which  at the end?
-- [Omeka Classic, Omeka.net, or Omeka S?](sections/whichomeka.md)
-- [Teaching with Omeka](sections/teaching.md) -- REVISE
-- [Next Steps/Resources](sections/next.md)   
+- [Next Steps/Resources](sections/next.md)
 - [Digital Archive Research Collective (DARC) Wiki](cuny.is/darc-wiki)
 - [Omeka Documentation](https://omeka.org/classic/docs/)
 - [Omeka S Documentation](https://omeka.org/s/docs/user-manual/)
