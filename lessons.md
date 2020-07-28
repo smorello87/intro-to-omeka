@@ -30,7 +30,7 @@ We encourage you to discuss these short and long term concerns with librarians a
 
 * Metadata standards
 
-__Metadata__ is data about data, or information about an item. It includes the documentation of data architecture, properties, and methods necessary to store, retrieve, and use the data in a meaningful manner. For example, bibliographic metadata is the title, author, publisher, date and so on of a publication. Omeka encourages you to describe every item with lots of metadata, which is part of what makes it a scholarly system. By default, Omeka relies on Dublin Core, a metadata standard used by libraries and archives for digital items that consists of 15 basic fields that can be used to describe any digital object, no matter what it is. Such basic fields include Creator, Subject, Description, Date, Rights, and so on. 
+__Metadata__ is data about data, or information about an item. It includes the documentation of data architecture, properties, and methods necessary to store, retrieve, and use the data in a meaningful manner. For example, bibliographic metadata is the title, author, publisher, date and so on of a publication. Omeka encourages you to describe every item with lots of metadata, which is part of what makes it a scholarly system. By default, Omeka relies on Dublin Core, a metadata standard used by libraries and archives for digital items that consists of 15 basic fields that can be used to describe any digital object, no matter what it is. Such basic fields include `Creator`, `Subject`, `Description`, `Date`, `Rights`, and so on. 
 
 Example: http://coloredconventions.org/items/show/278 
 
@@ -38,7 +38,7 @@ Beware: Doublin Core is __not__ the only metadata schema. Different catalogues, 
 
 Omeka does also allow additional standard metadata fields and custom metadata fields, but this may make it more difficult to transfer your data to and from Omeka and other systems, since these systems need a shared vocabulary to “talk” to one another. The fact that Omeka is built on Dublin Core means that your data is likely to last longer, because it can be moved to other systems later. There are prompts built in to Omeka that will help you understand what information to put in every Dublin Core field, but you can also consult the [Dublin Core User Guide section on Creating Metadata](http://dublincore.org/documents/usageguide/).
 
-In addition to selecting a metadata standard or schema, whenever possible you should also use __controlled vocabularies__. A controlled vocabulary provides a consistent way to describe data. Examples of controlled vocabularies include subject headings, thesauri, ontologies, and taxonomies. Using a controlled vocabulary will aid in searching and finding your data and will make it consistent and more shareable with researchers in the same discipline. In Omeka, you can build your own controlled vocabularies or use the standards suggested by DublinCore. Keep in mind that even if you're not using a controlled vocabulary, you should be as consistent as possible with your metadata. For example, if you use “New York, NY” in the “Coverage” field, make sure you follow the same City, State format when compiling the same field for other items. 
+In addition to selecting a metadata standard or schema, whenever possible you should also use __controlled vocabularies__. A controlled vocabulary provides a consistent way to describe data. Examples of controlled vocabularies include subject headings, thesauri, ontologies, and taxonomies. Using a controlled vocabulary will aid in searching and finding your data and will make it consistent and more shareable with researchers in the same discipline. In Omeka, you can build your own controlled vocabularies or use the standards suggested by DublinCore. Keep in mind that even if you're not using a controlled vocabulary, you should be as consistent as possible with your metadata. For example, if you use “New York, NY” in the `Coverage` field, make sure you follow the same City, State format when compiling the same field for other items. 
 
 * [File formats standards](http://www.loc.gov/preservation/resources/rfs/TOC.html)
 * Informational architecture of your website 
@@ -57,7 +57,7 @@ Omeka is a simple, free web publishing system built by and for scholars that is 
  
 For the purpose of this workshop, we are going to take Omeka for a test run by registering a free account on (http://www.omeka.net "Omeka.net").
 
-Go to (https://www.omeka.net/signup#), and click on "Start your free Omeka trial."
+Go to (https://www.omeka.net/signup#), and click on `Start your free Omeka trial.`
 
 ![screenshot omeka registration 1](/sections/screenshot1.png)
 
@@ -74,12 +74,13 @@ Log into your Omeka.net account. From your account click on _Add a Site_.
 Give your website a subdomain name, a title, and a description. 
 
 ```
-Subdomain name: baltmanandco[#].omeka.net
+Subdomain name: [Choose Your Own]
 Site title: B. Altman & Co.’s Archive
 Site description: The B. Altman & Co.’s Archive collects documents, images, videos, and other digital artifacts relevant to the history of the department store founded by Benjamin Altman in 1865 in New York City. 
 ```
 
-Go back to your account and click on _Manage Site_ to access your website’s dashboard. 
+Click on `Add Your New Site`. 
+When your confirmation page loads, go back to your account and click on _Manage Site_ to access your website’s dashboard. 
 
 ![manage site](/sections/managesite.png)
 
@@ -145,7 +146,7 @@ Let’s now try and add a subpage. Click on _Simple Pages_ in your left menu aga
 
 ![preview](/sections/plugin4.png)
 
-Our new "Team" page is going to live under the "About" page. On the right hand side, make sure you select the check box “Public” and the About page as a “parent” page. Try to activate and use the HTML editor bar to create and format content for your page this time. 
+Our new `Team` page is going to live under the `About` page. On the right hand side, make sure you select the check box “Public” and the About page as a “parent” page. Try to activate and use the HTML editor bar to create and format content for your page this time. 
 
 ```
 Workshop leaders: Stefano Morello, Kirsten Hackett.
@@ -196,11 +197,11 @@ On the right hand side box, you'll have the option to make the item “Public”
 
 Let’s now move on to the second tab _Item Type Metadata_.
 
-By default Omeka offers 12 types of items, including “Document,” “Still Image,” “Sound,” “Moving Image,” “Person,” and more. You can also define custom item types, perhaps something like “Coin” or “Poem” or “Quilt,” and you can define custom sets of metadata fields to go with those item types. For instance, if you define the item type “Poem,” you might define a metadata field such as “Rhyme Scheme” where you can enter that information (such as A’bA” abA’ abA” abA’ abA” abA’A” for a villanelle). Be aware, though, that creating custom item types and metadata fields may make it more difficult to exchange data between your Omeka archive and other existing systems. 
-
 ![item type metadata](/sections/item2.png)
 
-Because our file is a "Still Image," we’ll be prompted to enter the following information:
+By default Omeka offers 12 types of items, including “Document,” “Still Image,” “Sound,” “Moving Image,” “Person,” and more. You can also define custom item types, perhaps something like “Coin” or “Poem” or “Quilt,” and you can define custom sets of metadata fields to go with those item types. For instance, if you define the item type “Poem,” you might define a metadata field such as “Rhyme Scheme” where you can enter that information (such as A’bA” abA’ abA” abA’ abA” abA’A” for a villanelle). Be aware, though, that creating custom item types and metadata fields may make it more difficult to exchange data between your Omeka archive and other existing systems. 
+
+Because our file is a `Still Image`, we’ll be prompted to enter the following information:
 
 ```
 Original Format: Negative: glass
@@ -236,7 +237,7 @@ Identifier https://chroniclingamerica.loc.gov/lccn/sn83030431/1918-03-03/ed-1/se
 Coverage 365 5th Avenue, New York, NY, United States
 ```
 
-In the _Item Type Metadata_ tab, select “Text” from the dropdown menu and compile the additional metadata information for the document. Adding the transcription of your document to the "text" field, will make its content searchable through Omeka's internal search function. 
+In the `Item Type Metadata` tab, select `Text` from the dropdown menu and compile the additional metadata information for the document. Adding the transcription of your document to the `text` field, will make its content searchable through Omeka's internal search function. 
 
 ```
 Text:  THE QUESTION OF SPRING CLOTHES is infinitely more momentous in times of war than In times of peace. Selections must be made with more forethought, with more discrimination, with more regard for suitability and wearing quality. Moreover, in war times women are very busy folk, with less leisure than usual to bestow upon matters of dress. With all these important details In mind, B. Altman & Co. have given even more than ordinary care to the assembling of the new things for Spring. Clothes are, if anything, rather smarter this season than last ; and the smartest of them all are ready for selection here. Women, misses, children and the tiniest folk have all been cared for; and there are, besides, just the clothes that boys and young men will want to wear, as well as the latest styles In furnishings for men. 
@@ -274,7 +275,7 @@ Example: [cityofbostonarchives.omeka.net/collections](http://cityofbostonarchive
 
 We are now going to create three collections (“Advertisements,” “Buildings,” and “Misc”) and add the items we just created to them. 
 
-To create a collection, click on the _Collections_ link on the left menu, then on _Add a Collection_. You’ll be prompted to enter metadata for your collection, which consists of information that pertains to __all the items__ in it. 
+To create a collection, click on the _Collections_ link on the left menu, then on _Add a Collection_. You’ll be prompted to enter metadata for your collection, which consists of information that pertains to __all the items__ in it. For example, unless you are facing the unlikely scenario where all the items in your collection were created in the same year, you're going to want to leave the `date` field blank, or enter a time-span that ranges from your earliest date to your latest date.
 
 Once you’ve entered title and metadata for your collection, click on _Add Collection_. Repeat theses steps for the other two collections.
 

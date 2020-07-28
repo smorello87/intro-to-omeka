@@ -20,10 +20,6 @@ In this workshop, you will learn the following skills:
 
 Three hours.
 
-## Prerequisites
-
-- [Getting Started with Omeka.net](sections/omekainstall.md) 
-
 ### Pre-reading suggestions
 
 - ["What Do We Mean by 'Digital Archives?'"](https://darc.gcdiprojects.org/Digital_Archives)
