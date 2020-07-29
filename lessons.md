@@ -15,7 +15,7 @@ In other cases, however, Omeka can function as a stand-alone lightweight CMS wit
 - [East Bay Punk Digital Archive](www.eastbaypunkda.com) The East Bay Punk Digital Archive (EBP-DA) is a project spearheaded by Stefano Morello and funded by the [Digital Initiatives](https://gcdi.commons.gc.cuny.edu/),  [Lost & Found](https://www.centerforthehumanities.org/lost-and-found), and the [New Media Lab](https://www.centerforthehumanities.org/lost-and-found) at The Graduate Center, CUNY. It aims to preserve and make available – to researchers, subcultural participants from around the world, and a general public unfamiliar with the topic – the subjugated knowledge produced by participants in the punk-rock commons that loomed in and around the San Francisco Bay Area between the early 1980s and the mid-1990s. 
 
 ## Omeka VS Omeka.net
-Omeka is NOT desktop software that you install on your own machine, it’s what’s called “server-side software.” Thing, for example, of the difference between Microsoft Office and Google Suite. Whereas the former in installed on and ran by your own computer, the latter is installed and ran on a remote machine (a server) to which you (and other users) have access through the internet. 
+Omeka is NOT desktop software that you install on your own machine, it’s what’s called “server-side software.” Think, for example, of the difference between Microsoft Office and Google Suite. Whereas the former in installed on and ran by your own computer, the latter is installed and ran on a remote machine (a server) to which you (and other users) have access through the internet. 
 
 There are two ways to use Omeka: you can download a free, open-source version of the server-side software at omeka.org, or, if you don’t have server space or would just rather not deal with it, you can sign up for free or paid “hosted” versions at [Omeka.net](http://omeka.net). 
 
@@ -61,7 +61,7 @@ For the purpose of this workshop, we are going to take Omeka for a test run by r
 
 Go to (https://www.omeka.net/signup#), and click on `Start your free Omeka trial.`
 
-![screenshot omeka registration 1](https://github.com/GCDigitalFellows/omeka/blob/v2.0-smorello-edits/sections/screenshot1.png)
+![screenshot omeka registration 1](https://raw.githubusercontent.com/GCDigitalFellows/omeka/v2.0-smorello-edits/sections/screenshot1.png)
 
 Once you have filled out and submitted the form, check your email for an activation link. If you don’t get the email, check your spam folder. 
 
@@ -71,7 +71,7 @@ Please make sure you are able to log into your account, and that you keep login 
 
 Log into your Omeka.net account. From your account click on _Add a Site_. 
 
-![add a site](https://github.com/GCDigitalFellows/omeka/blob/v2.0-smorello-edits/sections/addsite.png)
+![add a site](https://raw.githubusercontent.com/GCDigitalFellows/omeka/v2.0-smorello-edits/sections/addsite.png)
 
 Give your website a subdomain name, a title, and a description. 
 
@@ -84,11 +84,11 @@ Site description: The B. Altman & Co.’s Archive collects documents, images, vi
 Click on `Add Your New Site`. 
 When your confirmation page loads, go back to your account and click on _Manage Site_ to access your website’s dashboard. 
 
-![manage site](https://github.com/GCDigitalFellows/omeka/blob/v2.0-smorello-edits/sections/managesite.png)
+![manage site](https://raw.githubusercontent.com/GCDigitalFellows/omeka/v2.0-smorello-edits/sections/managesite.png)
 
 If your site was a restaurant, this would be the kitchen. In other words, this is where you will create and organize all of the content that is presented on your site. Only authorized users can access the backend of your site. 
 
-![dashboard](https://github.com/GCDigitalFellows/omeka/blob/v2.0-smorello-edits/sections/dashboard.png)
+![dashboard](https://raw.githubusercontent.com/GCDigitalFellows/omeka/v2.0-smorello-edits/sections/dashboard.png)
 
 You have two menus in your dashboard. One on the left that allows you to create and edit content; and one on the top right, which allows you to deal with the structure of your website. Let’s begin with the latter. 
 
@@ -101,19 +101,19 @@ Themes control the look and feel of your Omeka site: the color, the font, the la
 
 From your dashboard, visit your site by clicking on the site title in the top left corner. 
 
-![access site](https://github.com/GCDigitalFellows/omeka/blob/v2.0-smorello-edits/sections/accesssite.png)
+![access site](https://raw.githubusercontent.com/GCDigitalFellows/omeka/v2.0-smorello-edits/sections/accesssite.png)
 
 This is what your website looks like by default. 
 
-![berlin theme](https://github.com/GCDigitalFellows/omeka/blob/v2.0-smorello-edits/sections/theme1.png)
+![berlin theme](https://raw.githubusercontent.com/GCDigitalFellows/omeka/v2.0-smorello-edits/sections/theme1.png)
 
 Let’s try to change it. Return to your dashboard and click on _Appearance_. 
 
-![appearance](https://github.com/GCDigitalFellows/omeka/blob/v2.0-smorello-edits/sections/appearance.png)
+![appearance](https://raw.githubusercontent.com/GCDigitalFellows/omeka/v2.0-smorello-edits/sections/appearance.png)
 
 Click on _Use This Theme_ to activate the Seasons theme. From this page, under the _Navigation_ and _Setting_ tabs, you’ll also be able to make some minor tweaks to the look of your website. 
 
-![appearance menu](https://github.com/GCDigitalFellows/omeka/blob/v2.0-smorello-edits/sections/theme2.png)
+![appearance menu](https://raw.githubusercontent.com/GCDigitalFellows/omeka/v2.0-smorello-edits/sections/theme2.png)
 
 ## Plugins 
 Like themes, plugins are separate “add-ons” to Omeka, but whereas themes change the look and feel of an Omeka site, plugins change the functionality of an Omeka site — they change what it can do. There are (currently) twelve plugins packaged with the free Basic plan on Omeka.net, but there are more than 50 cool plugins for the self-hosted version of Omeka listed at [Omeka.org/plugins](http://omeka.org/plugins) that do everything from enabling anyone on the web to contribute items to your archive (with the [Contribution](http://omeka.org/add-ons/plugins/contribution/) plugin) to tweeting out an announcement whenever a new item is added (with the [Tweetster for Omeka](http://omeka.org/add-ons/plugins/tweetster-for-omeka/) plugin). Some of these plugins are developed by the Omeka team at RRCHNM, but a lot of them are developed by people who are customizing Omeka for their own purposes and contributing their code to the larger community. 
@@ -121,13 +121,13 @@ Like themes, plugins are separate “add-ons” to Omeka, but whereas themes cha
 ### Sample Pages Plugin
 Let’s try and activate the Sample Pages plugin, which allows you to create static web pages on your Omeka website. Click on _Plugins_, scroll to the bottom of the page and click on _Install_ to activate the Simple Pages plugin. 
 
-![plugin menu](https://github.com/GCDigitalFellows/omeka/blob/v2.0-smorello-edits/sections/plugin1.png)
+![plugin menu](https://raw.githubusercontent.com/GCDigitalFellows/omeka/v2.0-smorello-edits/sections/plugin1.png)
 
 You’ll notice that a _Simple Pages_ link appeared on the left hand side menu. Click on it to add or edit your static pages. Upon activating it, the plugin automatically creates an “About” page that we are now going to edit.
 
 From the _Simple Pages_ menu, click on _Edit_. 
 
-![simple pages](https://github.com/GCDigitalFellows/omeka/blob/v2.0-smorello-edits/sections/plugin2.png)
+![simple pages](https://raw.githubusercontent.com/GCDigitalFellows/omeka/v2.0-smorello-edits/sections/plugin2.png)
 
 You can use HTML to customize your static pages. For example, by copying and pasting the below.
 
@@ -142,11 +142,11 @@ Click on _Save_.
 
 When you visit your website, you’ll notice that, in addition to the previous sections, you can now find a new link in your menu. 
 
-![nabout page menu](https://github.com/GCDigitalFellows/omeka/blob/v2.0-smorello-edits/sections/newmenu.png)
+![nabout page menu](https://raw.githubusercontent.com/GCDigitalFellows/omeka/v2.0-smorello-edits/sections/newmenu.png)
 
 Let’s now try and add a subpage. Click on _Simple Pages_ in your left menu again; then, on click on _Add a Page_. 
 
-![preview](https://github.com/GCDigitalFellows/omeka/blob/v2.0-smorello-edits/sections/plugin4.png)
+![preview](https://raw.githubusercontent.com/GCDigitalFellows/omeka/v2.0-smorello-edits/sections/plugin4.png)
 
 Our new `Team` page is going to live under the `About` page. On the right hand side, make sure you select the check box “Public” and the About page as a “parent” page. Try to activate and use the HTML editor bar to create and format content for your page this time. 
 
@@ -155,7 +155,7 @@ Workshop leaders: Stefano Morello, Kirsten Hackett.
 Participants: 
 ```
 
-![preview](https://github.com/GCDigitalFellows/omeka/blob/v2.0-smorello-edits/sections/plugin5.png)
+![preview](https://raw.githubusercontent.com/GCDigitalFellows/omeka/v2.0-smorello-edits/sections/plugin5.png)
 
 Click on _Save Changes_.
 
@@ -175,11 +175,11 @@ An “item” is the basic unit of an Omeka site. It might be a photograph with 
 Let’s try and add a few items together. 
 
 ## Add a Still Image
-We are going to start with a picture of the B. Altman & Co. headquarter on Fifth Avenue. Click [here](https://github.com/GCDigitalFellows/omeka/blob/v2.0-smorello-edits/sections/1.jpg) and download the file to your desktop. 
+We are going to start with a picture of the B. Altman & Co. headquarter on Fifth Avenue. Click [here](https://raw.githubusercontent.com/GCDigitalFellows/omeka/v2.0-smorello-edits/sections/1.jpg) and download the file to your desktop. 
 
 From your site's dashboard, click on _Items_ to access the Items menu, then click on _Add an Item_.
 
-![add item](https://github.com/GCDigitalFellows/omeka/blob/v2.0-smorello-edits/sections/item1.png)
+![add item](https://raw.githubusercontent.com/GCDigitalFellows/omeka/v2.0-smorello-edits/sections/item1.png)
 
 The first thing we need to do is compile the metadata for our item. We saw that metadata is information about the item necessary to store, retrieve, and use the data in a meaningful manner. Here’s an example of how we would fill out the fields for this item.
 
@@ -199,7 +199,7 @@ On the right hand side box, you'll have the option to make the item “Public”
 
 Let’s now move on to the second tab _Item Type Metadata_.
 
-![item type metadata](https://github.com/GCDigitalFellows/omeka/blob/v2.0-smorello-edits/sections/item2.png)
+![item type metadata](https://raw.githubusercontent.com/GCDigitalFellows/omeka/v2.0-smorello-edits/sections/item2.png)
 
 By default Omeka offers 12 types of items, including “Document,” “Still Image,” “Sound,” “Moving Image,” “Person,” and more. You can also define custom item types, perhaps something like “Coin” or “Poem” or “Quilt,” and you can define custom sets of metadata fields to go with those item types. For instance, if you define the item type “Poem,” you might define a metadata field such as “Rhyme Scheme” where you can enter that information (such as A’bA” abA’ abA” abA’ abA” abA’A” for a villanelle). Be aware, though, that creating custom item types and metadata fields may make it more difficult to exchange data between your Omeka archive and other existing systems. 
 
@@ -218,7 +218,7 @@ Click on _Add Item_ to save and... congratulations! You’ve created the first i
 
 ## Add a PDF File
 
-Let’s now try with a PDF document. Click [here](https://github.com/GCDigitalFellows/omeka/blob/v2.0-smorello-edits/sections/2.pdf) and download on your desktop this advertisement for B. Altman & Co. ran by The Sun in the spring of 1918. 
+Let’s now try with a PDF document. Click [here](https://raw.githubusercontent.com/GCDigitalFellows/omeka/v2.0-smorello-edits/sections/2.pdf) and download on your desktop this advertisement for B. Altman & Co. ran by The Sun in the spring of 1918. 
 
 We are going to follow the same steps as we did for the photograph of the Altman building. 
 
@@ -257,15 +257,15 @@ Click on _Add Item_ to create your item.
 
 You can now try and create a few items on your own. You will find the metadata in the txt files with the name, but feel free to consult the [Doublin Core Metadata Element Set](http://dublincore.org/documents/dces/) guide and think through your own metadata as you go. 
 
-1. [B Altman's Logo](https://github.com/GCDigitalFellows/omeka/blob/v2.0-smorello-edits/sections/3.jpg) 
-2. [Living Room Sale](https://github.com/GCDigitalFellows/omeka/blob/v2.0-smorello-edits/sections/4.jpg) 
-3. [White Sale Commercial](https://github.com/GCDigitalFellows/omeka/blob/v2.0-smorello-edits/sections/5.mp4) 
+1. [B Altman's Logo](https://raw.githubusercontent.com/GCDigitalFellows/omeka/v2.0-smorello-edits/sections/3.jpg) 
+2. [Living Room Sale](https://raw.githubusercontent.com/GCDigitalFellows/omeka/v2.0-smorello-edits/sections/4.jpg) 
+3. [White Sale Commercial](https://raw.githubusercontent.com/GCDigitalFellows/omeka/v2.0-smorello-edits/sections/5.mp4) 
 
 ## Solution
 
-1. [Metadata for B Altman's Logo](https://github.com/GCDigitalFellows/omeka/blob/v2.0-smorello-edits/sections/3.txt)
-2. [Metadata for Living Room Sale](https://github.com/GCDigitalFellows/omeka/blob/v2.0-smorello-edits/sections/4.txt)  
-3. [Metadata for White Sale Commercial](https://github.com/GCDigitalFellows/omeka/blob/v2.0-smorello-edits/sections/5.txt)
+1. [Metadata for B Altman's Logo](https://raw.githubusercontent.com/GCDigitalFellows/omeka/v2.0-smorello-edits/sections/3.txt)
+2. [Metadata for Living Room Sale](https://raw.githubusercontent.com/GCDigitalFellows/omeka/v2.0-smorello-edits/sections/4.txt)  
+3. [Metadata for White Sale Commercial](https://raw.githubusercontent.com/GCDigitalFellows/omeka/v2.0-smorello-edits/sections/5.txt)
 
 # Collections
 
@@ -313,12 +313,12 @@ Example: [This exhibition](http://coloredconventions.org/exhibits/show/henry-hig
 To build an exhibition, we first need to install the Exhibit Builder plugin. The Exhibit Builder plugin allows you to develop online exhibits, or special web pages, that combine items from your Omeka archive and may include narrative text. 
 From your dashboard, access the _Plugin_ menu to activate it. 
 
-![activate exhibits plugin](https://github.com/GCDigitalFellows/omeka/blob/v2.0-smorello-edits/sections/exhibits1.png)
+![activate exhibits plugin](https://raw.githubusercontent.com/GCDigitalFellows/omeka/v2.0-smorello-edits/sections/exhibits1.png)
 
 ## Create an Exhibit
 Click on the _Exhibits_ link in the left menu. From there, click on _Add an Exhibit_. 
 
-![create exhibit](https://github.com/GCDigitalFellows/omeka/blob/v2.0-smorello-edits/sections/exhibits2.png)
+![create exhibit](https://raw.githubusercontent.com/GCDigitalFellows/omeka/v2.0-smorello-edits/sections/exhibits2.png)
 
 You'll be prompted to enter the following information:
 
@@ -334,7 +334,7 @@ A “slug” is the user friendly and URL valid name of a dynamic Omeka page. Th
 
 Just like with items and collections, you can also set your exhibits as public/private and/or featured. Click on _Save Changes_ to change your exhibition. Below is what your exhibit's main page is going to look like. 
 
-![preview1](https://github.com/GCDigitalFellows/omeka/blob/v2.0-smorello-edits/sections/exhibits3.png)
+![preview1](https://raw.githubusercontent.com/GCDigitalFellows/omeka/v2.0-smorello-edits/sections/exhibits3.png)
 
 Omeka allows us to create custom layouts for our exhibition pages. Now that we created our exhibition, let’s add a couple of sample pages to it.
 
@@ -351,7 +351,7 @@ Page Slug:
 
 Pages are made up of combinations of smaller content units called 'blocks.' There are four basic kinds of blocks: item(s) with text, an item gallery, text only, and file only. Each page can have one or more content blocks. 
 
-![add page](https://github.com/GCDigitalFellows/omeka/blob/v2.0-smorello-edits/sections/exhibits4.png)
+![add page](https://raw.githubusercontent.com/GCDigitalFellows/omeka/v2.0-smorello-edits/sections/exhibits4.png)
 
 The File with Text block allows you to pair fullsize or thumbnail files of your items with a block of text. The Gallery block creates a gallery of item files, generally large square thumbnails. You can add text to the gallery, which will display left or right of the gallery. The Text and Image blocks allow you to display an item or create a section of text which spans the width of the entire page. 
 
@@ -359,11 +359,11 @@ For our first block, select _File with Text_ and click on _Add New Content Block
 
 Click on _Add Item_ and select the B. Altman & Co’s 1865 logo from our “Misc” collection. 
 
-![add item](https://github.com/GCDigitalFellows/omeka/blob/v2.0-smorello-edits/sections/exhibits5.png)
+![add item](https://raw.githubusercontent.com/GCDigitalFellows/omeka/v2.0-smorello-edits/sections/exhibits5.png)
 
 You'll be prompted to add a caption for your item, it can be something like “B. Altman & Co’s first logo.” Click on _Apply_.
 
-![item properties](https://github.com/GCDigitalFellows/omeka/blob/v2.0-smorello-edits/sections/exhibits6.png)
+![item properties](https://raw.githubusercontent.com/GCDigitalFellows/omeka/v2.0-smorello-edits/sections/exhibits6.png)
 
 We are going to accompany this item with a brief overview of Altman’s early days. We are going to copy and paste the below in the text box.  
 
@@ -372,7 +372,7 @@ The second block is going to feature the Altman’s Fifth Avenue building.
 
 To add our second item, click on _File with Text_, then _Add New Content Block_. Click on _Add Item_ and select the 1906 picture from our “Buildings” collection. Our caption can be: "The building at 361 Fifth Avenue (at 34th Street)."
 
-![item2](https://github.com/GCDigitalFellows/omeka/blob/v2.0-smorello-edits/sections/exhibits7.png)
+![item2](https://raw.githubusercontent.com/GCDigitalFellows/omeka/v2.0-smorello-edits/sections/exhibits7.png)
 
 In the text box, we are going to narrate the story of the move to the building. 
 
@@ -381,7 +381,7 @@ In the text box, we are going to narrate the story of the move to the building.
 
 The _Layout Options_ menu allows us to further customize the way our page looks. For example, we can select the position and size of the item on the page. 
 
-![layout options](https://github.com/GCDigitalFellows/omeka/blob/v2.0-smorello-edits/sections/exhibits8.png)
+![layout options](https://raw.githubusercontent.com/GCDigitalFellows/omeka/v2.0-smorello-edits/sections/exhibits8.png)
 
 When you are done with this page, click on _Save Changes_. 
 
