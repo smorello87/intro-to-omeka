@@ -1,39 +1,24 @@
-# Introduction to Omeka
+# Intro to Omeka
 
-Omeka is a free Content Management System (CMS) and a web publishing system built by and for scholars that is used by hundreds of archives, historical societies, libraries, museums, and individual researchers and teachers to create searchable online databases and scholarly online interpretations of their digital collections. If you have a digital collection of primary sources that you want to publish online in a scholarly way, you’ll want to consider Omeka.
-Omeka allows to describe the items according to archival standards, import and export that descriptive information from other systems, and to create as many interpretive online exhibits as you like from those items.
+This is a stand-alone workshop that was first taught at the Digital Research Institute in 2019. It usually takes 3 hours to teach it. If taught during the semester, I recommend cutting it down to make sure you can teach it in 2 hours. 
+
+## Credits
+This workshop was written by [Stefano Morello](https://github.com/smorello87) and is based on Amanda French's [Introduction to Omeka Lesson Plan](http://amandafrench.net/2013/11/12/introduction-to-omeka-lesson-plan/).
 
 
-By the end of this workshop, participants will be able to:
+## Abstract: 
 
-- Understand some of the conceptual challenges faced when developing digital archives 
-- Create an online database of digital archival items
-- Create a public facing exhibition featuring items from your collections
-- Consider using Omeka as a teaching tool in undergraduate and graduate classes 
+Omeka is a free Content Management System (CMS) and a web publishing system built by and for scholars that is used by hundreds of archives, historical societies, libraries, museums, and individual researchers and teachers to create searchable online databases and scholarly online interpretations of their digital collections. If you have a digital collection of primary sources that you want to publish online in a scholarly way, you’ll want to consider Omeka. Omeka allows to describe the items according to archival standards, import and export that descriptive information from other systems, and to create as many interpretive online exhibits as you like from those items.
 
-[Introduction >>>](sections/intro.md)  
+Through this workshop, we are going to create and populate a database with artifacts from B. Altman’s & Co., the department store that until January 1990 resided in the building that now houses CUNY's Graduate Center. We are then going to create a sample exhibition that uses the items in our collections to tell the story of the store in the first two decades of the 1900s.
 
------
+## Requirements
+- Some knowledge of HTML/CSS is recommended but not required. 
 
-[Theoretical Concerns](sections/theoreticalconcerns.md)   
-[Getting Started with Omeka.net](sections/omekainstall.md)  
-[Create an Omeka Site](sections/createasite.md)  
-[Themes and Plugins](sections/themesplugins.md)    
-[Add an Item](sections/addanitem.md)   
-[Create a Collection](sections/collections.md)   
-[Digital Exhibitions](sections/digitalexhibitions.md)  
+## Reception and Feedback
+I have taught this workshop multiple times, in several settings and received extremely positive workshop. 
 
-### Additional Resources
+## Needed/Desired Changes 
+Several previous participants have reached out to me to ask whether Omeka is the right platform for them; considering that the workshop as-is takes three hours to go through, I don't think it's feasible to expand the introduction to focus more on choosing a platform. I did write [a blogpost to address thos cocerns](https://digitalfellows.commons.gc.cuny.edu/2021/03/22/choosing-the-right-platform-for-your-digital-archive/).
+Folks have also been asking for a workshop on Omeka theming. 
 
-[Omeka Classic, Omeka.net, or Omeka S?](sections/whichomeka.md)<br>
-[Teaching with Omeka](sections/teaching.md)<br>
-[Next Steps/Resources](sections/next.md)    
-
------
-
-Session Leader: Stefano Morello.
-Credit: This workshop was developed by Stefano Morello, based on Amanda French's [Introduction to Omeka Lesson Plan](http://amandafrench.net/2013/11/12/introduction-to-omeka-lesson-plan/).
-
-[![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
-
-[Digital Research Institute (DRI) Curriculum](http://purl.org/dc/terms/) by [Graduate Center Digital Initiatives](https://gcdi.commons.gc.cuny.edu/) is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/). Based on a work at <https://github.com/DHRI-Curriculum>. When sharing this material or derivative works, preserve this paragraph, changing only the title of the derivative work, or provide comparable attribution.
