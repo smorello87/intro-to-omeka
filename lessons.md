@@ -8,16 +8,16 @@ In other cases, however, Omeka can function as a stand-alone lightweight CMS wit
 
 
 ## Sample Sites
-- [The City of Boston archives](https://cityofbostonarchives.omeka.net/) is an excellent example of an Okema website in which a selected set of data from a larger database, most likely managed by a different CMS, was imported. The City of Boston archives relies on the basic functions of Omeka that we are going to explore today to catalogue and display a set of items, sort them into collections, and use them to tell stories in the form of digital exhibitions. 
+- [The City of Boston archives](https://cityofbostonarchives.omeka.net/) is an excellent example of an Omeka website in which a selected set of data from a larger database, most likely managed by a different CMS, was imported. The City of Boston archives relies on the basic functions of Omeka that we are going to explore today to catalogue and display a set of items, sort them into collections, and use them to tell stories in the form of digital exhibitions. 
 
 - [Colored Conventions](http://coloredconventions.org/) is a website that uses Omeka a stand-alone CMS and fully takes advantage of the platform's potential. This collaborative project aims to collect rare proceedings, newspaper coverage, and petitions from state and national political meetings of once captive Black people between 1830 and 1890. Colored Conventions is also a great example of how Omeka and digital archiving can work as pedagogical tools. It received awards from the MLA, ASA, and PCA/ACA along with grants from the NEH, Mellon Foundation, and CLI.
 
 - [East Bay Punk Digital Archive](www.eastbaypunkda.com) The East Bay Punk Digital Archive (EBP-DA) is a project spearheaded by Stefano Morello and funded by the [Digital Initiatives](https://gcdi.commons.gc.cuny.edu/),  [Lost & Found](https://www.centerforthehumanities.org/lost-and-found), and the [New Media Lab](https://www.centerforthehumanities.org/lost-and-found) at The Graduate Center, CUNY. It aims to preserve and make available – to researchers, subcultural participants from around the world, and a general public unfamiliar with the topic – the subjugated knowledge produced by participants in the punk-rock commons that loomed in and around the San Francisco Bay Area between the early 1980s and the mid-1990s. 
 
 ## Omeka VS Omeka.net
-Omeka is NOT desktop software that you install on your own machine, it’s what’s called “server-side software.” Think, for example, of the difference between Microsoft Office and Google Suite. Whereas the former in installed on and ran by your own computer, the latter is installed and ran on a remote machine (a server) to which you (and other users) have access through the internet. 
+Omeka is NOT desktop software that you install on your own machine, it’s what’s called “server-side software.” Think, for example, of the difference between Microsoft Office and the Google Docs Suite. Whereas the former in installed on and ran by your own computer, the latter is installed and ran on a remote machine (a server) to which you (and other users) have access through the internet. 
 
-There are two ways to use Omeka: you can download a free, open-source version of the server-side software at omeka.org, or, if you don’t have server space or would just rather not deal with it, you can sign up for free or paid “hosted” versions at [Omeka.net](http://omeka.net). 
+There are two ways to use Omeka: you can download a free, open-source version of the server-side software at omeka.org and install it on a server of your choice, or, if you don’t have server space or would just rather not deal with it, you can sign up for free or paid “hosted” versions at [Omeka.net](http://omeka.net). 
 
 For practical purposes, we will make use of the latter during this workshop. Despite having a limited set of functionalities, Omeka.net operates in the same way as the self-hosted version.  
 
@@ -26,9 +26,9 @@ We are going to create and populate a database with artifacts from B. Altman’s
 
 # Theoretical Concerns
 
-Before we engage with the creation of our Omeka database, let’s take a few minutes to think about the conceptual concerns that we have to face when engaging with digital archival work. 
+Before we get started with the creation of our Omeka database, let’s take a few minutes to think about the conceptual concerns that we have to face when engaging with digital archival work. 
 
-We encourage you to discuss these short and long term concerns with librarians and archivists in your field. It is often crucial to tackle and think through these issues before you start working on your project and uploading items to your Omeka site, as they might influence the shape of the technological infrastructure you are developing. 
+I encourage you to discuss these short and long term concerns with librarians and archivists in your field. It is often crucial to tackle and think through these issues before you start working on your project and uploading items to your Omeka site, as they might influence the shape of the technological infrastructure you are developing. 
 
 * Metadata standards
 
